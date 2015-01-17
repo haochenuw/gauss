@@ -5,3 +5,6 @@ class GaussianRational:
     def __add__(self,right)
         self.y += right.y
         self.x += right.x
+        
+    def __subtract__(self,right):
+        pass
