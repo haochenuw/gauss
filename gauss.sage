@@ -10,6 +10,6 @@ class GaussianRational:
         """
         docstring on github
         """
-        print 'Hello!'
+        print 'Hello World!'
         return 'booyah!'
 
