@@ -10,4 +10,5 @@ class GaussianRational:
         """
         docstring on github
         """
+        print 'World!'
         return 'booyah!'
