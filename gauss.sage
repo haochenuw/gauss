@@ -7,4 +7,4 @@ class GaussianRational:
         self.x += right.x
         
     def __subtract__(self,right):
-        pass
+        return 'booyah!'
